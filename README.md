@@ -1,6 +1,5 @@
 # 스파르타 코딩
 ---
----
 # ****비개발자를 위한, 웹개발 종합반****
 
 ## 001. API(Application Programming Interface)
