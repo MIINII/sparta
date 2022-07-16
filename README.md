@@ -1,8 +1,9 @@
 # 스파르타 코딩
-
+---
+---
 # ****비개발자를 위한, 웹개발 종합반****
 
-# 001. API(Application Programming Interface)
+## 001. API(Application Programming Interface)
 
 > **두 소프트웨어 구성 요소가(클라이언트 / 서버) 서로 통신할 수 있게 하는 메커니즘**
 > 
