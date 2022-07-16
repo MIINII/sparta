@@ -21,7 +21,7 @@
 
 </aside>
 
-# 002. Ajax
+## 002. Ajax
 
 > 서버와 통신하기 위해 `[XMLHttpRequest](https://developer.mozilla.org/ko/docs/Web/API/XMLHttpRequest)` 객체를 사용 *— MDN*
 >
